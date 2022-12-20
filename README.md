@@ -1,7 +1,7 @@
 ![logo](https://github.com/codeadictor/web_dev/blob/main/coding.png)
 <h1 align="center">Hi 👋, I'm pranshu yadav</h1>
 <h3 align="center">A passionate MERN STACK Developer from India</h3>
-<img align="right" alt="Coding" width="550" height="300" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
+<img align="right" alt="Coding" width="400" height="150" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeadictor&label=Profile%20views&color=0e75b6&style=flat" alt="codeadictor" /> </p>
 
